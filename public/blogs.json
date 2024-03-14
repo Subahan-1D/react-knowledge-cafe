@@ -4,60 +4,40 @@
       "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405206/qpmyb3mnhgxl5nrtql1e.jpg",
       "title": "The Lost Kingdom",
       "author": "Eleanor May",
-      "author-img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710403626/rxtfnhcc0ovdbad449xv.png",
-      "posted-date": "2024-03-14",
-      "reading-time": 25,
+      "author_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710403626/rxtfnhcc0ovdbad449xv.png",
+      "posted_date": "2024-03-14",
+      "reading_time": 25,
       "hashtags": ["fantasy", "adventure", "magic"]
     },
     {
       "id": "2",
-      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405422/g4jv0yfqxlwuhghurkwr.png",
+      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710411964/szlpxvldos8yutlxhqta.png",
       "title": "Whispers in the Dark",
       "author": "Sarah Johnson",
-      "author-img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405472/ypvxdilvqfvljomzc0dr.jpg",
-      "posted-date": "2024-03-12",
-      "reading-time": 30,
+      "author_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710412892/ewgw2zeev6aqc320xqxh.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 30,
       "hashtags": ["horror", "spooky", "ghost"]
     },
     {
       "id": "3",
-      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405422/g4jv0yfqxlwuhghurkwr.png",
-      "title": "Whispers in the Dark",
+      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710412037/qkedas8hse6szjt4zbgk.png",
+      "title": "Whispers in the red",
       "author": "Sarah Johnson",
-      "author-img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405472/ypvxdilvqfvljomzc0dr.jpg",
-      "posted-date": "2024-03-12",
-      "reading-time": 40,
+      "author_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405568/bgmok0ani40xfx87ozos.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 40,
       "hashtags": ["horror", "spooky", "ghost"]
     },
     {
       "id": "4",
-      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405517/x9zyh6iomph1wcad7sdb.png",
+      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710412147/pz6l22cr8dc8wpt1m6tw.jpg",
       "title": "The Forgotten Ones",
       "author": "David Lee",
-      "author-img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405596/bq6n4zjmeab7plwfzdwf.jpg",
-      "posted-date": "2024-03-11",
-      "reading-time": 50,
+      "author_img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405698/du18bkqpm34js0xupw6h.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 60,
       "hashtags": ["drama", "family", "loss"]
-    },
-    {
-      "id": "5",
-      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405517/x9zyh6iomph1wcad7sdb.png",
-      "title": "The Forgotten Ones",
-      "author": "David Lee",
-      "author-img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405596/bq6n4zjmeab7plwfzdwf.jpg",
-      "posted-date": "2024-03-11",
-      "reading-time": 60,
-      "hashtags": ["drama", "family", "loss"]
-    },
-    {
-      "id": "6",
-      "cover": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405653/ldmjczojrwsk5jp5bwbv.jpg",
-      "title": "Rise of the Phoenix",
-      "author": "Megan Foster",
-      "author-img": "https://res.cloudinary.com/dospsrwzj/image/upload/v1710405698/du18bkqpm34js0xupw6h.jpg",
-      "posted-date": "2024-03-10",
-      "reading-time": 55,
-      "hashtags": ["action", "adventure", "hero"]
     }
     
   ]
